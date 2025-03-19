@@ -11,7 +11,7 @@ export default function SearchBar() {
         <input
           type="text"
           placeholder="Find My Location | Search for Service/Business"
-          className="flex-grow p-4 text-gray-6000 focus:outline-none focus:ring-2 focus:ring-gray-400"
+          className="flex-grow p-4 text-gray-6000 focus:outline-none focus:ring-10 focus:ring-gray-400"
         />
       </div>
       <div className="flex gap-4 items-center">

@@ -16,8 +16,8 @@ export default function Filters() {
       {/* Reviews */}
       <div>
         <h3 className="font-semibold mb-2 text-gray-800">Reviews</h3>
-        <label className="block mb-1 text-sm text-gray-700">
-          ⭐⭐⭐⭐ & Up
+        <label className="block mb-1 text-me text-yellow-500">
+        ★★★★☆ & Up
         </label>
       </div>
 
